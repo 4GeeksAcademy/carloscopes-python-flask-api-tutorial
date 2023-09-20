@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@learnpack/learnpack": "^2.1.20"
+  }
+}
